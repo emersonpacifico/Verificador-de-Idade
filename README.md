@@ -7,5 +7,5 @@ O Projeto foi realizado como parâmetro de aprendizem do Canal Curso em Video.
 
 
 
-![enter image description here](https://github.com/emersonpacifico/Verificador-de-Idade/blob/master/img/giphy%20verificador.gif?raw=true)
+![enter image description here](https://github.com/emersonpacifico/Verificador-de-Idade/blob/master/img/giphy%20pronto.gif?raw=true)
 =======
