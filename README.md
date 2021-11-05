@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # DESKTOP
 Desenvolvi um Verificador de Idade,onde usei um pouco de Javascript,HTML e CSS.
